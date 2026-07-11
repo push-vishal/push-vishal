@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Ambilkar</h1>
-<h3 align="center">First-Year CSE (AI) Student | AI & Web Development Enthusiast 🚀</h3>
+<h3 align="center">Second-Year CSE (AI) Student | AI & Web Development Enthusiast 🚀</h3>
 
 <p align="center">
   Passionate about building impactful projects and learning new technologies.
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 First-year Computer Science & Artificial Intelligence student
+- 🎓 Second-year Computer Science & Artificial Intelligence student
 - 💡 Interested in AI and Web Development
 - 🛠 Currently building **Investizen-Unified Porfolio Manager**
 - 🌱 Currently learning **Python** and **JavaScript**
